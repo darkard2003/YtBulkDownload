@@ -8,13 +8,14 @@ A simple python gui wrapper for youtube-dl, yt-dlp to download videos in bulk.
 4. Or paste a list of video urls in the text box and click download.
 
 ## Screenshots
-![screenshot1](/screenshots/screenshot1.png)
+![ScreenShot](/screenshots/image.png)
 
 
 ## How to build
 1. Clone the repo
 2. Install the requirements
-3. Run `build.bat`
+3. Download the latest release of [ffmpeg](https://ffmpeg.org/) and put the ffmpeg.exe and ffprobe.exe in the bin folder of root directory
+4. run ```build.bat```
 
 ## Attributions
 1. [yt-dlp](https://github.com/yt-dlp/yt-dlp.git)
