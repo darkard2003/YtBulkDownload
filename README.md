@@ -2,7 +2,7 @@
 A simple python gui wrapper for youtube-dl, yt-dlp to download videos in bulk.
 
 ## How to use
-1. Download the latest release from [here](https://github.com/darkard2003/YtBulckDownload/releases)
+1. Download the latest release from [here](https://github.com/darkard2003/YtBulkDownload/releases)
 2. run the executable file
 3. Either search for a video, and select the videos you want to download.
 4. Or paste a list of video urls in the text box and click download.
